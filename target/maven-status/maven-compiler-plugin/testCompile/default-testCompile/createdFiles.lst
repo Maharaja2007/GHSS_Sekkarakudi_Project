@@ -1,0 +1,11 @@
+com\school\app\config\LegacyDataRepairTests.class
+com\school\app\marks\MarkServiceTests.class
+com\school\app\subject\SubjectGroupValidationTests.class
+com\school\app\config\LegacyDataRepairRulesTests.class
+com\school\app\academic\AssignmentServiceTests.class
+com\school\app\support\TestFixtures.class
+com\school\app\config\DataInitializerTests.class
+com\school\app\attendance\ClassAttendanceServiceTests.class
+com\school\app\ranking\RankingServiceTests.class
+com\school\app\student\StudentAuthorizationTests.class
+com\school\app\auth\AuthenticationTests.class
